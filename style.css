@@ -13,13 +13,14 @@ body *{
   color: #ffff ;
 }
 #container{
-  width: 360px;
-  height: 712px;
-  margin: 56px auto 0px;
+    width: 100%;
+    max-width: 588px;
+    margin: 56px auto 0px;
+    padding: 0 24px;
+
 }
 #profile {
   text-align: center;
-  padding: 24px;
   padding: 24px;
 }
 #profile img{
